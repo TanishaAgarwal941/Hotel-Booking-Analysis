@@ -60,10 +60,10 @@ The analysis of hotel booking cancellations, as well as other factors that have 
 
   This graph shows cancellations are most common when prices are highest, confirming **price is a major driver** of cancellations.
 <br><br>
- Now, let's see which country has the highest reservation cancelled. **Portugal** tops the chart for most cancelled reservations.
 
 <img src="Images/Top_10_countries.png" alt="Cancellations by Country" width="400"/>
 
+ Now, let's see which country has the highest reservation cancelled. **Portugal** tops the chart for most cancelled reservations.
 <br><br>
    Let's check the area from where guests are visiting the hotels and making reservations.
   - 46%: Online Travel Agencies (OTA)  
