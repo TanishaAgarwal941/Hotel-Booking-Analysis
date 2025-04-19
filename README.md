@@ -40,17 +40,21 @@ The analysis of hotel booking cancellations, as well as other factors that have 
 
   The bar graph shows the percentage of reservations that are cancelled and those that are not. **37% of clients cancelled** their reservation, significantly impacting hotel earnings.
 
+
 - <img src="Images/Reservation_Status.png" alt="Reservation Status" width="400"/>
 
   In comparison to resort hotels, city hotels have more bookings. This may be due to resort hotels being more expensive.
+
 
 - <img src="Images/Average_Daily_Rate.png" alt="Average Daily Rate Comparison" width="400"/>
 
   On certain days, the **average daily rate (ADR)** for city hotels is less than that of resort hotels. Weekends and holidays may cause resort hotel rates to spike.
 
+
 - <img src="Images/Reservation_Status_per_month.png" alt="Monthly Reservation Status" width="400"/>
 
   A grouped bar graph shows **August** has the highest number of both confirmed and cancelled reservations, while **January** has the highest cancellation rate alone.
+
 
 - <img src="Images/ADR_per_month.png" alt="Price vs Cancellation" width="400"/>
 
@@ -60,7 +64,8 @@ The analysis of hotel booking cancellations, as well as other factors that have 
 
 - <img src="Images/Top_10_countries.png" alt="Cancellations by Country" width="400"/>
 
-  - 46%: Online Travel Agencies (OTA)  
+
+   - 46%: Online Travel Agencies (OTA)  
   - 27%: Groups  
   - 4%: Direct Bookings
 
