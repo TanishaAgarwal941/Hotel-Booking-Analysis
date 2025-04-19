@@ -36,35 +36,35 @@ The analysis of hotel booking cancellations, as well as other factors that have 
 
 ## Analysis and Findings
 
-- ![Cancelled vs Not Cancelled](Images/ADR.png)
+- ![Cancelled vs Not Cancelled](Images/Cancelled_vs_not_cancelled.png)
 
   The bar graph shows the percentage of reservations that are cancelled and those that are not. **37% of clients cancelled** their reservation, significantly impacting hotel earnings.
-
+  
+- ![Average Daily Rate Comparison](images/.png)
+  
 - In comparison to resort hotels, city hotels have more bookings. This may be due to resort hotels being more expensive.
 
-- ![Average Daily Rate Comparison](images/avg-daily-rate-line.png)
+- ![Average Daily Rate Comparison](images/Average_Daily_Rate.png)
 
   On certain days, the **average daily rate (ADR)** for city hotels is less than that of resort hotels. Weekends and holidays may cause resort hotel rates to spike.
 
-- ![Monthly Reservation Status](images/monthly-reservations-bar.png)
+- ![Monthly Reservation Status](images/Reservation_Status_per_month.png)
 
   A grouped bar graph shows **August** has the highest number of both confirmed and cancelled reservations, while **January** has the highest cancellation rate alone.
 
-- ![Price vs Cancellation](images/price-cancellation-bar.png)
+- ![Price vs Cancellation](images/ADR_per_month.png)
 
   This graph shows cancellations are most common when prices are highest, confirming **price is a major driver** of cancellations.
 
-- ![Cancellations by Country](images/country-cancellation.png)
-
   **Portugal** tops the chart for most cancelled reservations.
 
-- ![Reservation Source Breakdown](images/source-distribution.png)
+- ![Reservation Source Breakdown](images/Top_10_countries.png)
 
   - 46%: Online Travel Agencies (OTA)  
   - 27%: Groups  
   - 4%: Direct Bookings
 
-- ![ADR vs Cancellation Status](images/adr-vs-cancellation.png)
+- ![ADR vs Cancellation Status](images/ADR.png)
 
   ADR is higher for cancelled reservations, which supports earlier findings.
 
