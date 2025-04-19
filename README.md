@@ -46,7 +46,7 @@ The analysis of hotel booking cancellations, as well as other factors that have 
   In comparison to resort hotels, city hotels have more bookings. This may be due to resort hotels being more expensive.
 <br><br>
 
-<img src="Images/Average_Daily_Rate.png" alt="Average Daily Rate Comparison" width="400"/>
+<img src="Images/Average_Daily_Rate.png" alt="Average Daily Rate Comparison" width="500"/>
 
   On certain days, the **average daily rate (ADR)** for city hotels is less than that of resort hotels. Weekends and holidays may cause resort hotel rates to spike.
 <br><br>
