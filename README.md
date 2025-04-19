@@ -40,7 +40,7 @@ The analysis of hotel booking cancellations, as well as other factors that have 
 
   The bar graph shows the percentage of reservations that are cancelled and those that are not. **37% of clients cancelled** their reservation, significantly impacting hotel earnings.
   
-- ![Average Daily Rate Comparison](images/.png)
+- ![Average Daily Rate Comparison](images/Reservation_Status.png)
   
 - In comparison to resort hotels, city hotels have more bookings. This may be due to resort hotels being more expensive.
 
