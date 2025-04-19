@@ -36,7 +36,7 @@ The analysis of hotel booking cancellations, as well as other factors that have 
 
 ## Analysis and Findings
 
-- <img src="Images/Cancelled_vs_not_cancelled.png" alt="Cancelled vs Not Cancelled" width="400"/>
+- <img src="Images/Cancelled_vs_not_cancelled .png" alt="Cancelled vs Not Cancelled" width="400"/>
 
   The bar graph shows the percentage of reservations that are cancelled and those that are not. **37% of clients cancelled** their reservation, significantly impacting hotel earnings.
 
